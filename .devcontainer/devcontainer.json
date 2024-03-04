@@ -2,14 +2,18 @@
 // README at: https://github.com/devcontainers/templates/tree/main/src/cpp
 {
 	"name": "Notetaking",
-	"image": "mcr.microsoft.com/devcontainers/universal",
+	"image": "mcr.microsoft.com/devcontainers/base:ubuntu-22.04",
 	"waitFor": "onCreateCommand",
 	"updateContentCommand": "python3 -m pip install -r requirements.txt",
 	"customizations": {
 		"vscode": {
 			"extensions": [
+				"foam.foam-vscode",
 				"albert.TabOut",
-				"yhpnoraa.beauty"
+				"streetsidesoftware.code-spell-checker",
+				"yhpnoraa.beauty",
+				"zaaack.markdown-editor",
+				"yzhang.markdown-all-in-one"
 			]
 		}
 	}
