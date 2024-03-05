@@ -2,9 +2,10 @@
 // README at: https://github.com/devcontainers/templates/tree/main/src/cpp
 {
 	"name": "Notetaking",
-	"image": "mcr.microsoft.com/devcontainers/base:ubuntu-22.04",
+	"image": "mcr.microsoft.com/devcontainers/universal",
 	"waitFor": "onCreateCommand",
 	"updateContentCommand": "python3 -m pip install -r requirements.txt",
+	"postCreateCommand": "",
 	"customizations": {
 		"vscode": {
 			"extensions": [
