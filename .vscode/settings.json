@@ -3,6 +3,8 @@
     "files.autoSave": "afterDelay",
     "files.autoSaveDelay": 5000,
     "foam.edit.linkReferenceDefinitions": "withExtensions",
+    "markdown.extension.preview.autoShowPreviewToSide": false,
+    "markdown-editor.imageSaveFolder": "${projectRoot}/assets",
     "markless.table": false,
     "markless.inlineCode": false
 }
