@@ -1,5 +1,8 @@
 {
+    "editor.fontSize": 16,
     "files.autoSave": "afterDelay",
     "files.autoSaveDelay": 5000,
-    "foam.edit.linkReferenceDefinitions": "withExtensions"
+    "foam.edit.linkReferenceDefinitions": "withExtensions",
+    "markless.table": false,
+    "markless.inlineCode": false
 }
