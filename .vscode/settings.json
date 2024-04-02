@@ -6,5 +6,7 @@
     "markdown.extension.preview.autoShowPreviewToSide": false,
     "markdown-editor.imageSaveFolder": "${projectRoot}/assets",
     "markless.table": false,
-    "markless.inlineCode": false
+    "markless.list": false,
+    "markless.inlineCode": false,
+    "markless.inlineImage.autoPreview": false
 }
