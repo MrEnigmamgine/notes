@@ -6,7 +6,7 @@ $$
 a^2 = b^2 + c^2 - 2bc\cos{a}
 $$
 
-![Sides and angles symbols](image.png)
+![Sides and angles symbols](cosines_triangle.png)
 
 ## Additional Formulae
 

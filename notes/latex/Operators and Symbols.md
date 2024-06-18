@@ -3,9 +3,9 @@ https://jojozhuang.github.io/tutorial/mathjax-cheat-sheet-for-mathematical-notat
 
 
 ### Mathcal
-|Code|Symbol|Meaning|
-|--|--|--|
-|`\mathcal{Letter\phi}`|$\mathcal{Letter\phi}$| Use a calligraphic font|
+| Code                    | Symbol                 | Meaning                 |
+| ----------------------- | ---------------------- | ----------------------- |
+| `\mathcal{Letter \phi}` | $\mathcal{Letter\phi}$ | Use a calligraphic font |
 
 ### Relation operators
 |Code|Symbol|Meaning|
