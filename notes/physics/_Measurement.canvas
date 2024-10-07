@@ -25,7 +25,8 @@
 		{"id":"82e8f7ec29467a0d","type":"text","text":"# Velocity\n$$\\frac{\\text{Distance}}{\\text{Time}}$$\n$m/s$\n","x":-1000,"y":-825,"width":280,"height":210},
 		{"id":"efdfd34c1adb4f86","type":"text","text":"# Volume\n$$m^3$$","x":45,"y":-595,"width":250,"height":120},
 		{"id":"e7a437720405a2de","type":"text","text":"# Energy Density\n$$\n\\frac{\\text{Energy}} {\\text{Volume}}\n$$\nPascal ($Pa$)","x":-35,"y":-216,"width":330,"height":163},
-		{"id":"07cf9ebc7029fdf2","type":"text","text":"# Pressure\n$$\n\\frac{\\text{Force}} {\\text{Area}}\n$$\nPascal ($Pa$)","x":-450,"y":-216,"width":330,"height":163}
+		{"id":"07cf9ebc7029fdf2","type":"text","text":"# Pressure\n$$\n\\frac{\\text{Force}} {\\text{Area}}\n$$\nPascal ($Pa$)","x":-450,"y":-216,"width":330,"height":163},
+		{"id":"8d695996a4c4bae9","type":"text","text":"# Torque\n$$\n\\text{Force} \\times \\text{Perpendicular Distance}\n$$\nNewton Meters (Nm)","x":-660,"y":-475,"width":280,"height":180}
 	],
 	"edges":[
 		{"id":"10d2094a5df5d6d0","fromNode":"82e8f7ec29467a0d","fromSide":"bottom","toNode":"a50615677c5db703","toSide":"top"},
@@ -62,6 +63,8 @@
 		{"id":"573a4de06ffecdd8","fromNode":"efdfd34c1adb4f86","fromSide":"bottom","toNode":"e7a437720405a2de","toSide":"top"},
 		{"id":"e76326e6707f8802","fromNode":"02787c05808b689f","fromSide":"left","toNode":"07cf9ebc7029fdf2","toSide":"top"},
 		{"id":"87642056d027b64a","fromNode":"3c8210902628902f","fromSide":"right","toNode":"07cf9ebc7029fdf2","toSide":"left"},
-		{"id":"b82d00636a1c5a31","fromNode":"07cf9ebc7029fdf2","fromSide":"right","toNode":"e7a437720405a2de","toSide":"left","fromEnd":"arrow"}
+		{"id":"b82d00636a1c5a31","fromNode":"07cf9ebc7029fdf2","fromSide":"right","toNode":"e7a437720405a2de","toSide":"left","fromEnd":"arrow"},
+		{"id":"f076d3a518c5d298","fromNode":"3c8210902628902f","fromSide":"right","toNode":"8d695996a4c4bae9","toSide":"left"},
+		{"id":"bb52fcbc39b2e45c","fromNode":"9ec6522c368ce413","fromSide":"bottom","toNode":"8d695996a4c4bae9","toSide":"top"}
 	]
 }
