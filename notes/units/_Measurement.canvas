@@ -13,7 +13,6 @@
 		{"id":"d5201d664622a3f3","type":"text","text":"# Time\n$$s$$","x":820,"y":-360,"width":250,"height":120},
 		{"id":"343d3a4c6e83260d","type":"text","text":"# Current\n$$\n\\frac{\\text{Charge}} {\\text{Time}}\n$$\nAmeperes ($A$)","x":945,"y":-135,"width":280,"height":200},
 		{"id":"b0642d17474d3ef3","type":"text","text":"# Charge\n$$C$$","x":1100,"y":-360,"width":250,"height":120},
-		{"id":"b88c9520f3cf0e3f","type":"text","text":"# Distance\n$$m$$","x":-1480,"y":-235,"width":250,"height":120},
 		{"id":"80ee4f1b7eb0f00f","type":"text","text":"# Distance\n$$m$$","x":220,"y":-1140,"width":250,"height":120},
 		{"id":"a26d62a2b75ec27b","type":"text","text":"# Distance\n$$m$$","x":540,"y":-1140,"width":250,"height":120},
 		{"id":"02787c05808b689f","type":"text","text":"# Area\n$$m^2$$","x":380,"y":-940,"width":250,"height":120},
@@ -26,7 +25,8 @@
 		{"id":"efdfd34c1adb4f86","type":"text","text":"# Volume\n$$m^3$$","x":45,"y":-595,"width":250,"height":120},
 		{"id":"e7a437720405a2de","type":"text","text":"# Energy Density\n$$\n\\frac{\\text{Energy}} {\\text{Volume}}\n$$\nPascal ($Pa$)","x":-35,"y":-216,"width":330,"height":163},
 		{"id":"07cf9ebc7029fdf2","type":"text","text":"# Pressure\n$$\n\\frac{\\text{Force}} {\\text{Area}}\n$$\nPascal ($Pa$)","x":-450,"y":-216,"width":330,"height":163},
-		{"id":"8d695996a4c4bae9","type":"text","text":"# Torque\n$$\n\\text{Force} \\times \\text{Perpendicular Distance}\n$$\nNewton Meters (Nm)","x":-660,"y":-475,"width":280,"height":180}
+		{"id":"8d695996a4c4bae9","type":"text","text":"# Torque\n$$\n\\text{Force} \\times \\text{Perpendicular Distance}\n$$\nNewton Meters (Nm)","x":-660,"y":-475,"width":280,"height":180},
+		{"id":"b88c9520f3cf0e3f","type":"text","text":"# Distance\n$$m$$","x":-1480,"y":-282,"width":250,"height":120}
 	],
 	"edges":[
 		{"id":"10d2094a5df5d6d0","fromNode":"82e8f7ec29467a0d","fromSide":"bottom","toNode":"a50615677c5db703","toSide":"top"},

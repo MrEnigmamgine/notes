@@ -1,3 +1,4 @@
+ipykernel 
 numpy
 pandas
 tqdm
@@ -6,4 +7,4 @@ matplotlib
 seaborn
 sympy
 schemdraw
-sklearn
+scikit-learn

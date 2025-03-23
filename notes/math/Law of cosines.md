@@ -3,7 +3,7 @@
 The law of cosines relates the lengths of the sides of a triangle to the cosine of one of its angles.
 
 $$
-a^2 = b^2 + c^2 - 2bc\cos{a}
+a^2 = b^2 + c^2 - 2bc\cos{(\alpha)}
 $$
 
 ![Sides and angles symbols](cosines_triangle.png)
