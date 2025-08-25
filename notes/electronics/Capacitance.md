@@ -31,7 +31,7 @@ $$
 
 Capacitors store [[Joule|energy]] :
 $$
-W = \frac{1}{2}CV^{2}
+E = \frac{1}{2}CV^{2}
 $$
 
 | Where | is |
