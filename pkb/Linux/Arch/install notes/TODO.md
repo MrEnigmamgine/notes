@@ -1,0 +1,4 @@
+- make /var/log a subvolume to exclude from snapshots.
+- niri
+- firewall
+- SElinux

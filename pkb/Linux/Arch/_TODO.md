@@ -1,0 +1,5 @@
+- Reconfigure bootloader to use GRUB ✅
+- Reconfigure networking to use networkmanager
+- Explore timeshift snapshoting.
+- Make a Desktop environment
+- 

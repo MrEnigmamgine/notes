@@ -1,0 +1,10 @@
+ipykernel 
+numpy
+pandas
+tqdm
+ipywidgets
+matplotlib
+seaborn
+sympy
+schemdraw
+scikit-learn

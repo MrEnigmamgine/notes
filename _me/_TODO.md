@@ -1,0 +1,23 @@
+- [x] RealID
+- [x] Ev6 registration renewal
+- [ ] Dodge title transfer
+- [ ]  Get comfortable with UFW configs
+- [ ]  Reconfigure plex container to remove host network mode
+- [x] Internal DNS container
+- [ ] Reconfigure DNS
+	- [ ] Bind
+		- [ ] Stork
+	- [ ] Unbound
+- [x] configure vim (wip)
+	- [ ] Whichkey
+- [ ] configure neovim
+- [ ] fileshare solution
+	- [ ] Authelia
+- [ ] Internet ssh
+	- [ ] fail2ban
+	- [ ] cert-only for public IPs
+- [ ] joplin server / config one-note migration
+	- [ ] Export from onenote
+	- [ ] Import into joplin
+		- [ ] clean up
+	- [ ] Sync and easy access
