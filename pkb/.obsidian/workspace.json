@@ -169,8 +169,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -183,6 +182,26 @@
       "bases:Create new base": false
     }
   },
-  "active": "4a1d67fbbda936c2",
-  "lastOpenFiles": []
+  "active": "5b9274d4eee5f310",
+  "lastOpenFiles": [
+    "_me/Obsidian/Favorite Plugins.md",
+    "_me/wishlist.md",
+    "_me/vscode extensions.md",
+    "_me/bandit_notes.md",
+    "_me/_TODO.md",
+    "_me/Potential Projects.md",
+    "_me/Obsidian",
+    "_me/Notes structure.md",
+    "_me/2026-04-17.md",
+    "_me",
+    "Linux/Reference docs/Chezmoi.md",
+    "_me/2026-04-16.md",
+    "Linux/Reference docs/rclone.md",
+    "Linux/Reference docs/Github/Remote repositories.md",
+    "Linux/Reference docs/Github/Git Configuration.md",
+    "Linux/Reference docs/Github/github ssh add.md",
+    "Markdown/Tricks.md",
+    "Markdown",
+    "_Format Preview.md"
+  ]
 }

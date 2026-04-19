@@ -1,1 +1,8 @@
-{}
+{
+  "openBehavior": "daily",
+  "alwaysUpdateLinks": true,
+  "showUnsupportedFiles": true,
+  "trashOption": "system",
+  "propertiesInDocument": "source",
+  "showLineNumber": true
+}
