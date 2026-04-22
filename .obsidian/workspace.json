@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_Format Preview.md",
+                "file": "pkb/Linux/_cheatsheet/Format a delimited string into newlines.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "_Format Preview"
+              "title": "Format a delimited string into newlines"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_Format Preview.md",
+                "file": "pkb/Linux/_cheatsheet/Format a delimited string into newlines.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for _Format Preview"
+              "title": "Backlinks for Format a delimited string into newlines"
             }
           },
           {
@@ -169,7 +169,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -182,8 +183,15 @@
       "bases:Create new base": false
     }
   },
-  "active": "5b9274d4eee5f310",
+  "active": "4a1d67fbbda936c2",
   "lastOpenFiles": [
+    "pkb/Linux/_cheatsheet/Regex.md",
+    "pkb/Linux/_cheatsheet/Format a delimited string into newlines.md",
+    "pkb/Linux/_cheatsheet/SSH Login with cert.md",
+    "pkb/Linux/_cheatsheet/Vim.md",
+    "pkb/Linux/Bazzite/Bazzite tweaks.md",
+    "_me/2026-04-22.md",
+    "_me/2026-04-19.md",
     "_me/Obsidian/Favorite Plugins.md",
     "_me/wishlist.md",
     "_me/vscode extensions.md",
